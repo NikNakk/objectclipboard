@@ -1,0 +1,13 @@
+Package: objectclipboard
+Type: Package
+Title: Facilitates reading/writing serialised objects to the clipboard
+Version: 0.1.0
+Author: Nick Kennedy <r@nick-kennedy.com>
+Maintainer: Nick Kennedy <r@nick-kennedy.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports: clipr, rlang, base64enc
+RoxygenNote: 6.0.1
